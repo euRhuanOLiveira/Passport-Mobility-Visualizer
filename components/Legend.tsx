@@ -34,11 +34,21 @@ const Legend: React.FC = () => {
           <span>Visa required</span>
         </div>
 
+        
         <div className="flex items-center gap-2">
           <span className="block w-3 h-3 rounded-full bg-slate-300" />
           <span>No data available</span>
         </div>
       </div>
+      <div className="flex items-center gap-2">
+    <span className="w-3 h-3 rounded-full bg-green-500" />
+    Accessible with both passports
+  </div>
+
+  <div className="flex items-center gap-2">
+    <span className="w-3 h-3 rounded-full bg-orange-500" />
+    Accessible with only one passport
+  </div>
 
       {/* Contextual note */}
       <div className="pt-2 border-t border-slate-200 text-[11px] text-slate-500 leading-snug">
