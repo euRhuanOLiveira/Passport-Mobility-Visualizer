@@ -1,0 +1,1810 @@
+[
+  {
+    "from": "pe",
+    "to": "al",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ad",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ag",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ar",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "aw",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "at",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bs",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bb",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "by",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "be",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bz",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bo",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bq",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ba",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bw",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "br",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bn",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bg",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ky",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cl",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "co",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ck",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cr",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "hr",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cw",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cy",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cz",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "dk",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "dm",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "do",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ec",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ee",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "fo",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "fj",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "fi",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "fr",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gf",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "de",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gr",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gl",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gt",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gy",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ht",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "hn",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "hk",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "hu",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "is",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "it",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "jm",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "lv",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "li",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "lt",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "lu",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mk",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "my",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mt",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "fm",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "md",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mc",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "me",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ma",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "nl",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "nc",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "no",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ps",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "pa",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "py",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ph",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "pl",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "pt",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ro",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sm",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "rs",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sg",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sk",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "si",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "za",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "es",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "vc",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "se",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ch",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "th",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tt",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tr",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "uy",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "vu",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "va",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sr",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gd",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mn",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ua",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ki",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ir",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sv",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "pf",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mf",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "jp",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cn",
+    "can_enter": true,
+    "category": "visa_free_access",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mg",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "am",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bh",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bd",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bi",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "kh",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cv",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "km",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "eg",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gw",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "jo",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "la",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "lb",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mo",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mw",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mv",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mh",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mu",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mz",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "np",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ni",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "pw",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "rw",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ws",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "lc",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tz",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tl",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tv",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "zm",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "zw",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "id",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "dj",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ae",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "na",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "qa",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "nu",
+    "can_enter": true,
+    "category": "visa_on_arrival",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "az",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bj",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "et",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ga",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ge",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "in",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "kg",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ms",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mm",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "pk",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "st",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tw",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tj",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "uz",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "vn",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ug",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "pg",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gn",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "kz",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cm",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gq",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tg",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "om",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sy",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cu",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bf",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mr",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cd",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ng",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "lr",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sh",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "so",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bt",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ci",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ss",
+    "can_enter": true,
+    "category": "visa_online",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "lk",
+    "can_enter": true,
+    "category": "electronic_travel_authorisation",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "kr",
+    "can_enter": true,
+    "category": "electronic_travel_authorisation",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ke",
+    "can_enter": true,
+    "category": "electronic_travel_authorisation",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gb",
+    "can_enter": true,
+    "category": "electronic_travel_authorisation",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sc",
+    "can_enter": true,
+    "category": "electronic_travel_authorisation",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "il",
+    "can_enter": true,
+    "category": "electronic_travel_authorisation",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "kn",
+    "can_enter": true,
+    "category": "electronic_travel_authorisation",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ru",
+    "can_enter": true,
+    "category": "electronic_travel_authorisation",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "af",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "dz",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ao",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ai",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ca",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cf",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "td",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "cg",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "er",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "fk",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "fw",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gm",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gh",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gi",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "gu",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "iq",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ie",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "xk",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ly",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ml",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "yt",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "nr",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "nz",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ne",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "kp",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mp",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "pr",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "re",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "as",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sa",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sl",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sb",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sd",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sz",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "to",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tn",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tm",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "tc",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "us",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ve",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "vg",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "vi",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ye",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "au",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "bm",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "sn",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "kw",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "mx",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  },
+  {
+    "from": "pe",
+    "to": "ls",
+    "can_enter": false,
+    "category": "visa_required",
+    "year": 2025,
+    "source": "Henley Passport Index API"
+  }
+]

@@ -1,0 +1,1 @@
+@keyframes flight{0%{stroke-dashoffset:160;opacity:0}to{stroke-dashoffset:0;opacity:1}}.flight-path{animation:flight 1.3s ease-out forwards}
