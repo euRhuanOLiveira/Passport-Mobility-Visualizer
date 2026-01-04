@@ -1,0 +1,5 @@
+{
+  "name": "Passport Mobility Visualizer",
+  "description": "An interactive world map visualizing passport power and visa requirements using global mobility data.",
+  "requestFramePermissions": []
+}
