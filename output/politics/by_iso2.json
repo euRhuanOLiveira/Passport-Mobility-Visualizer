@@ -1,0 +1,1411 @@
+{
+  "tj": {
+    "democracy_index": 1.83,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "us": {
+    "democracy_index": 7.85,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "dz": {
+    "democracy_index": 3.55,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "at": {
+    "democracy_index": 8.28,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "ec": {
+    "democracy_index": 5.24,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "si": {
+    "democracy_index": 7.82,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "gm": {
+    "democracy_index": 4.47,
+    "democracy_type": "Hybrid regime",
+    "year": 2024
+  },
+  "mw": {
+    "democracy_index": 5.85,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "es": {
+    "democracy_index": 8.13,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "td": {
+    "democracy_index": 1.89,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "ch": {
+    "democracy_index": 9.32,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "gh": {
+    "democracy_index": 6.24,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "md": {
+    "democracy_index": 6.04,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "pt": {
+    "democracy_index": 8.08,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "ws": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "la": {
+    "democracy_index": 1.71,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "tg": {
+    "democracy_index": 2.99,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 4
+  },
+  "cv": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "bs": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 2
+  },
+  "eg": {
+    "democracy_index": 2.79,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 6
+  },
+  "af": {
+    "democracy_index": 0.25,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "il": {
+    "democracy_index": 7.8,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 3
+  },
+  "sn": {
+    "democracy_index": 5.93,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 3
+  },
+  "fj": {
+    "democracy_index": 5.39,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "uz": {
+    "democracy_index": 2.1,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "ls": {
+    "democracy_index": 6.06,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 3
+  },
+  "pe": {
+    "democracy_index": 5.69,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "gy": {
+    "democracy_index": 6.11,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "it": {
+    "democracy_index": 7.58,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "fr": {
+    "democracy_index": 7.99,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 2
+  },
+  "mk": {
+    "democracy_index": 6.28,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "so": {
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "ve": {
+    "democracy_index": 2.25,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "tz": {
+    "democracy_index": 5.2,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "id": {
+    "democracy_index": 6.44,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 4
+  },
+  "ua": {
+    "democracy_index": 4.9,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "ca": {
+    "democracy_index": 8.69,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "dj": {
+    "democracy_index": 2.7,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 5
+  },
+  "th": {
+    "democracy_index": 6.27,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "vu": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "sd": {
+    "democracy_index": 1.46,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "sr": {
+    "democracy_index": 6.79,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "mv": {
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 5
+  },
+  "gw": {
+    "democracy_index": 2.03,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 4
+  },
+  "nr": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 3
+  },
+  "co": {
+    "democracy_index": 6.35,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 3
+  },
+  "rs": {
+    "democracy_index": 6.26,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 3
+  },
+  "kh": {
+    "democracy_index": 2.94,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 5
+  },
+  "km": {
+    "democracy_index": 2.84,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 4
+  },
+  "cl": {
+    "democracy_index": 7.83,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "sg": {
+    "democracy_index": 6.18,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "ae": {
+    "democracy_index": 3.07,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "jm": {
+    "democracy_index": 6.74,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "eh": {
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "my": {
+    "democracy_index": 7.11,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "dk": {
+    "democracy_index": 9.28,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "in": {
+    "democracy_index": 7.29,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 2,
+    "civil_liberties": 4
+  },
+  "sb": {
+    "freedom_status": "F",
+    "political_rights": 3,
+    "civil_liberties": 2
+  },
+  "to": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "jo": {
+    "democracy_index": 3.28,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 5
+  },
+  "ye": {
+    "democracy_index": 1.95,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "ne": {
+    "democracy_index": 2.26,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 5
+  },
+  "pl": {
+    "democracy_index": 7.4,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "lu": {
+    "democracy_index": 8.88,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "bb": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "mg": {
+    "democracy_index": 5.33,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "tw": {
+    "democracy_index": 8.78,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "lv": {
+    "democracy_index": 7.66,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 2
+  },
+  "bt": {
+    "democracy_index": 5.65,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 3
+  },
+  "au": {
+    "democracy_index": 8.85,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "rw": {
+    "democracy_index": 3.34,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 6
+  },
+  "kg": {
+    "democracy_index": 3.52,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 5
+  },
+  "lk": {
+    "democracy_index": 6.19,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 4
+  },
+  "br": {
+    "democracy_index": 6.49,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 3
+  },
+  "ph": {
+    "democracy_index": 6.63,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 4
+  },
+  "vn": {
+    "democracy_index": 2.62,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "mn": {
+    "democracy_index": 6.53,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 2
+  },
+  "hr": {
+    "democracy_index": 6.5,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "tt": {
+    "democracy_index": 7.09,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "qa": {
+    "democracy_index": 3.17,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "cr": {
+    "democracy_index": 8.29,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "is": {
+    "democracy_index": 9.38,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "ki": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "bw": {
+    "democracy_index": 7.63,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "gr": {
+    "democracy_index": 8.07,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "gb": {
+    "democracy_index": 8.34,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "de": {
+    "democracy_index": 8.73,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "ge": {
+    "democracy_index": 4.7,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "ee": {
+    "democracy_index": 8.13,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "sa": {
+    "democracy_index": 2.08,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "bh": {
+    "democracy_index": 2.45,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "mz": {
+    "democracy_index": 3.38,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 4
+  },
+  "no": {
+    "democracy_index": 9.81,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "er": {
+    "democracy_index": 1.97,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "om": {
+    "democracy_index": 3.05,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "sy": {
+    "democracy_index": 1.32,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "ro": {
+    "democracy_index": 5.99,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "bo": {
+    "democracy_index": 4.26,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "ly": {
+    "democracy_index": 2.31,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "mr": {
+    "democracy_index": 3.96,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 5
+  },
+  "ba": {
+    "democracy_index": 5.06,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 3
+  },
+  "ao": {
+    "democracy_index": 4.05,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "ir": {
+    "democracy_index": 1.96,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "ma": {
+    "democracy_index": 4.97,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 5
+  },
+  "zw": {
+    "democracy_index": 2.98,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "zm": {
+    "democracy_index": 5.73,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "nz": {
+    "democracy_index": 9.61,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "ga": {
+    "democracy_index": 2.18,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 5
+  },
+  "cm": {
+    "democracy_index": 2.56,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 6
+  },
+  "lb": {
+    "democracy_index": 3.56,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 4
+  },
+  "ar": {
+    "democracy_index": 6.51,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "by": {
+    "democracy_index": 1.99,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "do": {
+    "democracy_index": 6.62,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "dm": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "tv": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "ie": {
+    "democracy_index": 9.19,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "ag": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "np": {
+    "democracy_index": 4.6,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 4
+  },
+  "se": {
+    "democracy_index": 9.39,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "hn": {
+    "democracy_index": 4.98,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "pw": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "nl": {
+    "democracy_index": 9.0,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "tm": {
+    "democracy_index": 1.66,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "sm": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "sv": {
+    "democracy_index": 4.61,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 4
+  },
+  "gn": {
+    "democracy_index": 2.04,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "cn": {
+    "democracy_index": 2.11,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "uy": {
+    "democracy_index": 8.67,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "gq": {
+    "democracy_index": 1.92,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "kr": {
+    "democracy_index": 7.75,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "kz": {
+    "democracy_index": 3.08,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 5
+  },
+  "lt": {
+    "democracy_index": 7.59,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 2
+  },
+  "cy": {
+    "democracy_index": 7.38,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "bi": {
+    "democracy_index": 2.13,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "kp": {
+    "democracy_index": 1.08,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "st": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "lr": {
+    "democracy_index": 5.57,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 2,
+    "civil_liberties": 4
+  },
+  "sl": {
+    "democracy_index": 4.32,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 3
+  },
+  "bj": {
+    "democracy_index": 4.44,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 3
+  },
+  "pk": {
+    "democracy_index": 2.84,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 5
+  },
+  "sk": {
+    "democracy_index": 7.21,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "jp": {
+    "democracy_index": 8.48,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "hk": {
+    "democracy_index": 5.09,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 6,
+    "civil_liberties": 4
+  },
+  "bg": {
+    "democracy_index": 6.34,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "ke": {
+    "democracy_index": 5.05,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "ug": {
+    "democracy_index": 4.49,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "py": {
+    "democracy_index": 5.92,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "mt": {
+    "democracy_index": 7.93,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "hu": {
+    "democracy_index": 6.51,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "cz": {
+    "democracy_index": 8.08,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "sz": {
+    "democracy_index": 2.6,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "ml": {
+    "democracy_index": 2.4,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "bf": {
+    "democracy_index": 2.55,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 5
+  },
+  "li": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 1
+  },
+  "ss": {
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "mx": {
+    "democracy_index": 5.32,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 4
+  },
+  "ni": {
+    "democracy_index": 2.09,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "et": {
+    "democracy_index": 3.24,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 6
+  },
+  "mc": {
+    "freedom_status": "F",
+    "political_rights": 3,
+    "civil_liberties": 1
+  },
+  "ht": {
+    "democracy_index": 2.74,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "cu": {
+    "democracy_index": 2.58,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 6
+  },
+  "tn": {
+    "democracy_index": 4.71,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 6,
+    "civil_liberties": 4
+  },
+  "tl": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 3
+  },
+  "be": {
+    "democracy_index": 7.64,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "fi": {
+    "democracy_index": 9.3,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "iq": {
+    "democracy_index": 2.8,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 5,
+    "civil_liberties": 6
+  },
+  "za": {
+    "democracy_index": 7.16,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "bd": {
+    "democracy_index": 4.44,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 5,
+    "civil_liberties": 4
+  },
+  "ad": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  },
+  "cg": {
+    "democracy_index": 2.79,
+    "democracy_type": "Authoritarian",
+    "year": 2024
+  },
+  "kw": {
+    "democracy_index": 2.78,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 6,
+    "civil_liberties": 5
+  },
+  "me": {
+    "democracy_index": 6.73,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "cf": {
+    "democracy_index": 1.18,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "sc": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "pg": {
+    "democracy_index": 5.97,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 3
+  },
+  "am": {
+    "democracy_index": 5.35,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "ng": {
+    "democracy_index": 4.16,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 5
+  },
+  "az": {
+    "democracy_index": 2.8,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "mu": {
+    "democracy_index": 8.23,
+    "democracy_type": "Full democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "mm": {
+    "democracy_index": 0.96,
+    "democracy_type": "Authoritarian",
+    "year": 2024,
+    "freedom_status": "NF",
+    "political_rights": 7,
+    "civil_liberties": 7
+  },
+  "pa": {
+    "democracy_index": 6.84,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 2
+  },
+  "na": {
+    "democracy_index": 6.48,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "F",
+    "political_rights": 3,
+    "civil_liberties": 2
+  },
+  "al": {
+    "democracy_index": 6.2,
+    "democracy_type": "Flawed democracy",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 3,
+    "civil_liberties": 3
+  },
+  "bz": {
+    "freedom_status": "F",
+    "political_rights": 2,
+    "civil_liberties": 1
+  },
+  "gd": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 2
+  },
+  "gt": {
+    "democracy_index": 4.55,
+    "democracy_type": "Hybrid regime",
+    "year": 2024,
+    "freedom_status": "PF",
+    "political_rights": 4,
+    "civil_liberties": 4
+  },
+  "mh": {
+    "freedom_status": "F",
+    "political_rights": 1,
+    "civil_liberties": 1
+  }
+}
