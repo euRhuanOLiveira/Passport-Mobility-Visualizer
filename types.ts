@@ -23,3 +23,10 @@ export interface CountryOption {
   code: string; // lowercase iso code
   name: string;
 }
+
+export interface CountryVisualState {
+  iso2: string;
+  color?: string;
+  opacity: number;
+  reasons?: string[];
+}

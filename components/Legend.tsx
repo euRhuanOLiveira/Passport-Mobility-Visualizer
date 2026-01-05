@@ -1,61 +1,47 @@
 import React from 'react';
 
-/**
- * Map legend with contextual explanation.
- */
-const Legend: React.FC = () => {
+interface LegendProps {
+  politicsEnabled: boolean;
+}
+
+const Legend: React.FC<LegendProps> = ({ politicsEnabled }) => {
   return (
-    <div
-      className="
-        flex flex-col gap-3
-        text-xs font-medium text-slate-600
-        bg-white/90 backdrop-blur-sm
-        p-3 rounded-lg
-        border border-slate-200
-        shadow-sm
-        max-w-xs
-      "
-      aria-label="Map legend"
-    >
-      {/* Color legend */}
-      <div className="flex flex-wrap gap-4">
-        <div className="flex items-center gap-2">
-          <span className="block w-3 h-3 rounded-full bg-blue-600 ring-2 ring-blue-100" />
-          <span>Selected passport</span>
+    <div className="bg-white/90 backdrop-blur-sm p-3 rounded-lg border border-slate-200 shadow-sm text-xs">
+      {politicsEnabled ? (
+        <div className="flex flex-col gap-2">
+          <div className="flex items-center gap-2">
+            <span className="w-3 h-3 rounded-full bg-green-700" />
+            Full democracy
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="w-3 h-3 rounded-full bg-green-500" />
+            Flawed democracy
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="w-3 h-3 rounded-full bg-yellow-400" />
+            Hybrid regime
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="w-3 h-3 rounded-full bg-red-500" />
+            Authoritarian
+          </div>
         </div>
-
-        <div className="flex items-center gap-2">
-          <span className="block w-3 h-3 rounded-full bg-emerald-500" />
-          <span>Visa-free access</span>
+      ) : (
+        <div className="flex flex-col gap-2">
+          <div className="flex items-center gap-2">
+            <span className="w-3 h-3 rounded-full bg-blue-600" />
+            Selected passport
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="w-3 h-3 rounded-full bg-emerald-500" />
+            Visa-free access
+          </div>
+          <div className="flex items-center gap-2">
+            <span className="w-3 h-3 rounded-full bg-rose-500" />
+            Visa required
+          </div>
         </div>
-
-        <div className="flex items-center gap-2">
-          <span className="block w-3 h-3 rounded-full bg-rose-500" />
-          <span>Visa required</span>
-        </div>
-
-        
-        <div className="flex items-center gap-2">
-          <span className="block w-3 h-3 rounded-full bg-slate-300" />
-          <span>No data available</span>
-        </div>
-      </div>
-      <div className="flex items-center gap-2">
-    <span className="w-3 h-3 rounded-full bg-green-500" />
-    Accessible with both passports
-  </div>
-
-  <div className="flex items-center gap-2">
-    <span className="w-3 h-3 rounded-full bg-orange-500" />
-    Accessible with only one passport
-  </div>
-
-      {/* Contextual note */}
-      <div className="pt-2 border-t border-slate-200 text-[11px] text-slate-500 leading-snug">
-        <span className="font-semibold text-slate-600">Travel context:</span>{' '}
-        Colors represent general short-term tourist travel rules. Entry
-        conditions may vary by duration or purpose.
-      </div>
+      )}
     </div>
   );
 };

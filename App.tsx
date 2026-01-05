@@ -1,20 +1,27 @@
-import React, { useEffect, useState, useMemo } from 'react';
+import React, { useEffect, useState } from 'react';
 import {
   fetchWorldMap,
   fetchPassportData,
   createMobilityMap,
   extractCountryOptions,
 } from './services/dataService';
+import { fetchPoliticsData } from './services/dataServicePolitics';
 
 import { CountryGeoJSON, MobilityMap, CountryOption } from './types';
 import PassportMap from './components/PassportMap';
 import Controls from './components/Controls';
 import Legend from './components/Legend';
-import InfoPanel from './components/InfoPanel';
 import Footer from './components/Footer';
 import CountrySearch from './components/CountrySearch';
 
 const DEFAULT_PASSPORT = 'us';
+
+const DEMOCRACY_TYPES = [
+  'Full democracy',
+  'Flawed democracy',
+  'Hybrid regime',
+  'Authoritarian',
+];
 
 const App: React.FC = () => {
   const [geoData, setGeoData] = useState<CountryGeoJSON | null>(null);
@@ -22,106 +29,60 @@ const App: React.FC = () => {
   const [loadingMap, setLoadingMap] = useState(true);
   const [mapError, setMapError] = useState<string | null>(null);
 
-  const [infoOpen, setInfoOpen] = useState(false);
   const [highlightedCountry, setHighlightedCountry] = useState<string | null>(null);
 
-  // Passport A
-  const [selectedPassport, setSelectedPassport] = useState<string>(DEFAULT_PASSPORT);
+  // Passaportes
+  const [selectedPassport, setSelectedPassport] = useState(DEFAULT_PASSPORT);
   const [mobilityMap, setMobilityMap] = useState<MobilityMap>(new Map());
-
-  // Passport B (comparação)
   const [comparePassport, setComparePassport] = useState<string | null>(null);
   const [compareMobilityMap, setCompareMobilityMap] = useState<MobilityMap>(new Map());
 
-  const [loadingData, setLoadingData] = useState(false);
-  const [dataError, setDataError] = useState<string | null>(null);
+  // Política
+  const [politicsEnabled, setPoliticsEnabled] = useState(false);
+  const [politicsData, setPoliticsData] = useState<Record<string, any> | null>(null);
+  const [democracyFilters, setDemocracyFilters] = useState<string[]>([]);
 
-  const [headerVisible, setHeaderVisible] = useState(true);
+  // 🧠 CONTROLE DE MODO
+  const [analysisMode, setAnalysisMode] = useState<'neutral' | 'passport'>('passport');
 
-  // ---------------------------
-  // LOAD MAP
-  // ---------------------------
+  // MAPA BASE
   useEffect(() => {
-    const loadMap = async () => {
-      try {
-        setLoadingMap(true);
-        const geo = await fetchWorldMap();
+    fetchWorldMap()
+      .then((geo) => {
         setGeoData(geo);
         setCountries(extractCountryOptions(geo));
-      } catch {
-        setMapError('Failed to load world map data.');
-      } finally {
-        setLoadingMap(false);
-      }
-    };
-    loadMap();
+      })
+      .catch(() => setMapError('Failed to load world map data.'))
+      .finally(() => setLoadingMap(false));
   }, []);
 
-  // ---------------------------
-  // LOAD PASSPORT A
-  // ---------------------------
+  // PASSAPORTE A
   useEffect(() => {
-    if (!selectedPassport) return;
-
-    const load = async () => {
-      try {
-        setLoadingData(true);
-        const data = await fetchPassportData(selectedPassport);
-        setMobilityMap(createMobilityMap(data));
-      } catch {
-        setDataError(`No visa data for ${selectedPassport.toUpperCase()}`);
-        setMobilityMap(new Map());
-      } finally {
-        setLoadingData(false);
-      }
-    };
-    load();
+    fetchPassportData(selectedPassport)
+      .then((data) => setMobilityMap(createMobilityMap(data)))
+      .catch(() => setMobilityMap(new Map()));
   }, [selectedPassport]);
 
-  // ---------------------------
-  // LOAD PASSPORT B
-  // ---------------------------
+  // PASSAPORTE B
   useEffect(() => {
     if (!comparePassport) {
       setCompareMobilityMap(new Map());
       return;
     }
 
-    const load = async () => {
-      try {
-        const data = await fetchPassportData(comparePassport);
-        setCompareMobilityMap(createMobilityMap(data));
-      } catch {
-        setCompareMobilityMap(new Map());
-      }
-    };
-    load();
+    fetchPassportData(comparePassport)
+      .then((data) => setCompareMobilityMap(createMobilityMap(data)))
+      .catch(() => setCompareMobilityMap(new Map()));
   }, [comparePassport]);
 
-  // ---------------------------
-  // COMPARISON SUMMARY
-  // ---------------------------
-  const comparison = useMemo(() => {
-    if (!comparePassport) return null;
+  // POLÍTICA (lazy)
+  useEffect(() => {
+    if (!politicsEnabled || politicsData) return;
 
-    let onlyA = 0;
-    let onlyB = 0;
-    let both = 0;
-
-    for (const [iso, a] of mobilityMap.entries()) {
-      const b = compareMobilityMap.get(iso);
-      if (a?.can_enter && b?.can_enter) both++;
-      else if (a?.can_enter && !b?.can_enter) onlyA++;
-    }
-
-    for (const [iso, b] of compareMobilityMap.entries()) {
-      if (!mobilityMap.get(iso)?.can_enter && b?.can_enter) {
-        onlyB++;
-      }
-    }
-
-    return { onlyA, onlyB, both };
-  }, [mobilityMap, compareMobilityMap, comparePassport]);
+    fetchPoliticsData()
+      .then(setPoliticsData)
+      .catch(() => setPoliticsData(null));
+  }, [politicsEnabled, politicsData]);
 
   if (mapError) {
     return (
@@ -141,58 +102,73 @@ const App: React.FC = () => {
 
   return (
     <div className="flex flex-col h-screen overflow-hidden">
-      {/* HEADER */}
-      {headerVisible && (
-        <header className="bg-white border-b border-slate-200 shadow-sm z-10">
-          <div className="max-w-7xl mx-auto px-4 py-2 flex items-center justify-between">
-            <div>
-              <h1 className="text-sm font-semibold text-slate-800">
-                Passport Mobility Map
-              </h1>
-              <p className="text-[11px] text-slate-500">
-                Compare real travel freedom
-              </p>
+      <header className="bg-white border-b border-slate-200 shadow-sm z-10">
+        <div className="max-w-7xl mx-auto px-4 py-2 flex flex-wrap items-center gap-3">
+          <Controls
+            countries={countries}
+            selectedPassport={selectedPassport}
+            onSelectPassport={(code) => {
+              setSelectedPassport(code);
+              setAnalysisMode('passport'); // 🔑 chave
+              setHighlightedCountry(null);
+            }}
+          />
+
+          <select
+            value={comparePassport ?? ''}
+            onChange={(e) => {
+              setComparePassport(e.target.value || null);
+              setAnalysisMode('passport');
+            }}
+            className="text-xs border rounded px-2 py-1"
+          >
+            <option value="">Compare with…</option>
+            {countries.map((c) => (
+              <option key={c.code} value={c.code}>
+                {c.name}
+              </option>
+            ))}
+          </select>
+
+          <button
+            onClick={() => {
+              setPoliticsEnabled((v) => !v);
+              setAnalysisMode('neutral'); // 🔑 entra neutro
+              setDemocracyFilters([]);
+              setHighlightedCountry(null);
+            }}
+            className={`text-xs px-2 py-1 rounded border ${
+              politicsEnabled
+                ? 'bg-slate-800 text-white'
+                : 'bg-white text-slate-600'
+            }`}
+          >
+            Politics {politicsEnabled ? 'ON' : 'OFF'}
+          </button>
+
+          {politicsEnabled && (
+            <div className="flex gap-2 text-xs">
+              {DEMOCRACY_TYPES.map((type) => (
+                <label key={type} className="flex items-center gap-1">
+                  <input
+                    type="checkbox"
+                    checked={democracyFilters.includes(type)}
+                    onChange={(e) =>
+                      setDemocracyFilters((prev) =>
+                        e.target.checked
+                          ? [...prev, type]
+                          : prev.filter((t) => t !== type)
+                      )
+                    }
+                  />
+                  {type}
+                </label>
+              ))}
             </div>
+          )}
+        </div>
+      </header>
 
-            <div className="flex items-center gap-3">
-              <Controls
-                countries={countries}
-                selectedPassport={selectedPassport}
-                onSelectPassport={(code) => {
-                  setSelectedPassport(code);
-                  setHighlightedCountry(null);
-                }}
-              />
-
-              <select
-                value={comparePassport ?? ''}
-                onChange={(e) =>
-                  setComparePassport(e.target.value || null)
-                }
-                className="text-xs border rounded px-2 py-1"
-              >
-                <option value="">Compare with…</option>
-                {countries.map((c) => (
-                  <option key={c.code} value={c.code}>
-                    {c.name}
-                  </option>
-                ))}
-              </select>
-
-              <button
-                onClick={() => setHeaderVisible(false)}
-                className="text-xs text-slate-500 hover:text-slate-700"
-              >
-                ⬆ Hide
-              </button>
-            </div>
-          </div>
-
-
-        </header>
-      )}
-
-      {/* MAP */}
       <main className="relative flex-grow bg-slate-100 overflow-hidden">
         <PassportMap
           geoData={geoData}
@@ -201,11 +177,14 @@ const App: React.FC = () => {
           selectedPassport={selectedPassport}
           comparePassport={comparePassport}
           highlightedCountry={highlightedCountry}
+          politicsEnabled={politicsEnabled}
+          politicsData={politicsData ?? undefined}
+          democracyFilters={democracyFilters}
+          analysisMode={analysisMode}
         />
 
-
         <div className="absolute bottom-6 left-6 z-20">
-          <Legend />
+          <Legend politicsEnabled={politicsEnabled} />
         </div>
 
         <div className="absolute bottom-6 right-6 z-20 w-72">
@@ -217,7 +196,6 @@ const App: React.FC = () => {
       </main>
 
       <Footer />
-      <InfoPanel open={infoOpen} onClose={() => setInfoOpen(false)} />
     </div>
   );
 };
